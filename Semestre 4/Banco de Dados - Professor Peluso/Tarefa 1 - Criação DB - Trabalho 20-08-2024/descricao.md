@@ -1,17 +1,20 @@
 # TAREFA CRIAR UM BANCO DE DADOS
 
-## Descrição:
+## DESCRIÇÃO:
 
 Criar um banco de dados no MySQL Workbench, usando como padrão o server localhost.
 
----
+### Informações:
+
+- Link no moodle: https://ead.unipinhal.edu.br/mod/assign/view.php?id=56552
+
+- Data lançada no moodle: 20/08/2024 ❗
+- Data término de envio: 27/08/2024 ⚠
 
 ## CONFIGURAÇÃO DO AMBIENTE DE DESENVOLVIMENTO 
 
 - Linguagem Utilizada: SQL
 - IDE: MySQL Workbench
-
----
 
 ## PROJETO CONCLUÍDO
 
@@ -32,8 +35,6 @@ Contudo inserimos alguns códigos feitos a mão e outros pela própria ferrament
     --CÓDIGO PARA MOSTRAR OS DADOS EM UMA TABELA
 ```
 
----
-
-## Extra
+## EXTRA
 
 Atividade em exibição junto com o arquivo do SQL. 
