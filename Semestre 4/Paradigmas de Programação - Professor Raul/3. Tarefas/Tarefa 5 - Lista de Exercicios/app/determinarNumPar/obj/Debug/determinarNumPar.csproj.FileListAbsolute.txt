@@ -1,0 +1,7 @@
+C:\Users\Jean Pasquini\source\repos\determinarNumPar\bin\Debug\determinarNumPar.exe.config
+C:\Users\Jean Pasquini\source\repos\determinarNumPar\bin\Debug\determinarNumPar.exe
+C:\Users\Jean Pasquini\source\repos\determinarNumPar\bin\Debug\determinarNumPar.pdb
+C:\Users\Jean Pasquini\source\repos\determinarNumPar\obj\Debug\determinarNumPar.csproj.AssemblyReference.cache
+C:\Users\Jean Pasquini\source\repos\determinarNumPar\obj\Debug\determinarNumPar.csproj.CoreCompileInputs.cache
+C:\Users\Jean Pasquini\source\repos\determinarNumPar\obj\Debug\determinarNumPar.exe
+C:\Users\Jean Pasquini\source\repos\determinarNumPar\obj\Debug\determinarNumPar.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jean Pasquini\source\repos\determinarNumPrimos\bin\Debug\determinarNumPrimos.exe.config
+C:\Users\Jean Pasquini\source\repos\determinarNumPrimos\bin\Debug\determinarNumPrimos.exe
+C:\Users\Jean Pasquini\source\repos\determinarNumPrimos\bin\Debug\determinarNumPrimos.pdb
+C:\Users\Jean Pasquini\source\repos\determinarNumPrimos\obj\Debug\determinarNumPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Jean Pasquini\source\repos\determinarNumPrimos\obj\Debug\determinarNumPrimos.exe
+C:\Users\Jean Pasquini\source\repos\determinarNumPrimos\obj\Debug\determinarNumPrimos.pdb

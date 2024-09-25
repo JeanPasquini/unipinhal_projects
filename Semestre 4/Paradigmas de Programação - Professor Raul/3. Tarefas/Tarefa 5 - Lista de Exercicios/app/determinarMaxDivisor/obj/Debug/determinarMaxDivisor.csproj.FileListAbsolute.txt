@@ -1,0 +1,6 @@
+C:\Users\Jean Pasquini\source\repos\determinarMaxDivisor\bin\Debug\determinarMaxDivisor.exe.config
+C:\Users\Jean Pasquini\source\repos\determinarMaxDivisor\bin\Debug\determinarMaxDivisor.exe
+C:\Users\Jean Pasquini\source\repos\determinarMaxDivisor\bin\Debug\determinarMaxDivisor.pdb
+C:\Users\Jean Pasquini\source\repos\determinarMaxDivisor\obj\Debug\determinarMaxDivisor.csproj.CoreCompileInputs.cache
+C:\Users\Jean Pasquini\source\repos\determinarMaxDivisor\obj\Debug\determinarMaxDivisor.exe
+C:\Users\Jean Pasquini\source\repos\determinarMaxDivisor\obj\Debug\determinarMaxDivisor.pdb
